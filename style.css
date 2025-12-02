@@ -20,7 +20,7 @@
 }
 
 body {
-  background: radial-gradient(circle at top, #1a1a1a, #000);
+  background: radial-gradient(circle at top, #201313, #201313);
   font-family: var(--font-main);
   color: var(--text-light);
   margin: 0;
@@ -31,7 +31,7 @@ body {
   max-width: 700px;
   margin: 3rem auto;
   padding: 2rem;
-  background: linear-gradient(160deg, #201313, #101010);
+  background: linear-gradient(160deg, #201313, #201313);
   border: 2px solid var(--accent-gray);
   border-radius: 12px;
   box-shadow: 0 0 30px rgba(121, 27, 24);
@@ -45,8 +45,8 @@ header {
 }
 
 h1 {
-  color: var(--primary-red);
-  text-shadow: 0 0 15px rgba(121, 27, 24);
+  color:white;
+  text-shadow: white;
   letter-spacing: 1px;
 }
 
@@ -101,4 +101,7 @@ button:hover {
   font-size: 1.5rem;
   text-align: center;
   color: var(--highlight);
+}
+p{
+  font
 }
