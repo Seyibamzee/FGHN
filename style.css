@@ -107,10 +107,10 @@ p{
  
 }
 
-lable{letter-spacing:1px;}
+lable{letter-spacing:2px;}
 
 
 h2{letter-spacing:1px;}
 input[type="radio"] {
-  accent-color: blue; /* Change to your desired color */
+  accent-color: #cfa281; /* Change to your desired color */
 }
