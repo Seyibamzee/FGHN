@@ -104,4 +104,13 @@ button:hover {
 }
 p{
   font-size: 22px;
+ 
+}
+
+lable{letter-spacing:1px;}
+
+
+h2{letter-spacing:1px;}
+input[type="radio"] {
+  accent-color: blue; /* Change to your desired color */
 }
